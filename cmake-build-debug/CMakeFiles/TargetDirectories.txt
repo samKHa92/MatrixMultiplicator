@@ -1,3 +1,0 @@
-/Users/lukasamkharadze/CLionProjects/PhoneBook/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/lukasamkharadze/CLionProjects/PhoneBook/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/lukasamkharadze/CLionProjects/PhoneBook/cmake-build-debug/CMakeFiles/PhoneBook.dir
